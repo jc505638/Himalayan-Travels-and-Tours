@@ -1,2 +1,2 @@
-# Himalayan-Travels-and-Tours
+# Himalayan-Tours-and-Trek
 Travel Agency Site
